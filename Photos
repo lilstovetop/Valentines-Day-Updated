@@ -1,4 +1,4 @@
 cd "/Users/lukebirk/Documents/New project"
-git add "Photos" "index.html" "style.css" "game.js"
+git add "Photos/" "index.html" "style.css" "game.js"
 git commit -m "Add collage photos and latest updates"
 git push 
